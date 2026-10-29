@@ -1,0 +1,6 @@
+# Служебные файлы IDE и ОС
+.idea/
+.vscode/
+*.log
+Thumbs.db
+desktop.ini
